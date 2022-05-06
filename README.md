@@ -90,3 +90,13 @@ or
 
 npm install har-validator@latest --save-dev
 
+
+This is the a project built with Foundation for Emails, a framework for creating responsive HTML devices that work in any email client. It has a Gulp-powered build system with these features:
+
+Handlebars HTML templates with Panini
+Simplified HTML email syntax with Inky
+Sass compilation
+Image compression
+Built-in BrowserSync server
+Full email inlining process
+
