@@ -1,3 +1,5 @@
+Link: https://viaje-promotional-email.netlify.app/
+
 # Dev-Starter-Kit
  *For My Students* 
 If you are doing any of my courses make sure you are using the right version this project is using gulp version 4.0.1 to view previous versions switch branches to older version
@@ -87,4 +89,14 @@ Coming Soon
 or 
 
 npm install har-validator@latest --save-dev
+
+
+This is the a project built with Foundation for Emails, a framework for creating responsive HTML devices that work in any email client. It has a Gulp-powered build system with these features:
+
+Handlebars HTML templates with Panini
+Simplified HTML email syntax with Inky
+Sass compilation
+Image compression
+Built-in BrowserSync server
+Full email inlining process
 
